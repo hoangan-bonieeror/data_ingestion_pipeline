@@ -72,7 +72,7 @@ weather-pipeline/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/weather-etl-pipeline.git
+git clone https://github.com/hoangan-bonieeror/weather-etl-pipeline.git
 cd weather-etl-pipeline
 ```
 
